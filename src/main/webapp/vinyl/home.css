@@ -12,8 +12,10 @@ div {
 	text-align: center;
 }
 
-
-
 h1 {
 	font-size:200%, 1.2em, 20px;
+}
+
+#scelti {
+	color: black;
 }
