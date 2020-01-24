@@ -12,8 +12,22 @@ div {
 	text-align: center;
 }
 
-
-
 h1 {
 	font-size:200%, 1.2em, 20px;
+}
+
+.scelti{
+	color: black;
+	text-decoration: none;
+}
+
+.scelti:hover {
+	color: black;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+#titolo {
+	font-size: 500%;
+	font-weight: bold;
 }
