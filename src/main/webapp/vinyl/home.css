@@ -1,4 +1,4 @@
-@charset "ISO-8859-1";
+
 .my2{
 	background-color:black;
 	color: white;
@@ -30,4 +30,9 @@ h1 {
 #titolo {
 	font-size: 500%;
 	font-weight: bold;
+}
+
+#titolo2 {
+	color: black;
+	text-decoration: none;
 }
